@@ -1,3 +1,5 @@
+# modified #1
+
 import random
 
 def hangman(word):
